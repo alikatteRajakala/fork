@@ -1,3 +1,4 @@
 fork is copying of new repository to our account.
 git add .
 git commit -m "commit"
+4 th line added to test whether fetching is happening from 1st user and should merge to 2nd user
